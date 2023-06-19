@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity/Intent</string>
+    <string name="app_hint">Введите вопрос:</string>
+    <string name="input_placeholder">Напишите текст</string>
+    <string name="pressbutton">ОК</string>
+
+    <string name="app_hint2">Было получено сообщение:</string>
+    <string name="input_placeholder2">Напишите ответ</string>
+
+    <string name="answerbutton">ОК</string>
+
+</resources>
